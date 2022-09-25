@@ -1,4 +1,4 @@
-Exercises
+Exercises:
 
 0-strcat.c
 
